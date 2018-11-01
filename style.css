@@ -1,0 +1,53 @@
+.navbar{
+	background-color: #F34852 !important;
+}
+.nav-item{
+	color: white;
+	font-family:GOGOIA;
+	font-size: 40px;
+	margin-top: 10px;
+	margin-left: 75%;
+}
+.container{
+	padding-left:15px;
+	text-align: center;
+
+}
+.row{
+	margin-top: 200px;
+}
+h1{
+	font-family:GOGOIA Deco;
+	font-size: 100px;
+	color: #F34852;
+}
+body{
+	background-color: #FFEDCF !important; 
+	background: url(Images/Vines.svg) no-repeat;
+	background-size: 110%;
+}
+p{
+	color: #F34852;
+	font-family: GOGOIA;
+	font-size: 30px
+
+}
+.col-lg-12 {
+	margin-bottom: 40px;
+
+}
+.front{
+	border: 10px solid;
+	border-color: #F34852;
+}
+.btn.btn-primary.btn-lg.active{
+	background-color: #F34852;
+	font-family: GOGOIA;
+	font-size: 30px;
+}
+.mapouter{
+	margin-left: 25%;
+	margin-top: 10%;
+	margin-bottom: 10px;
+
+}

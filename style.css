@@ -28,7 +28,7 @@ body{
 }
 p{
 	color: #F34852;
-	font-family: GOGOIA;
+	font-family: GOGOIA-Regular;
 	font-size: 30px
 
 }
@@ -42,7 +42,7 @@ p{
 }
 .btn.btn-primary.btn-lg.active{
 	background-color: #F34852;
-	font-family: GOGOIA;
+	font-family: GOGOIA-Regular;
 	font-size: 30px;
 }
 .mapouter{
